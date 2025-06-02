@@ -1,0 +1,11 @@
+
+vcf_creator_app/
+├── assets/
+│   ├── fonts/
+│   └── sounds/
+├── lib/
+│   ├── main.dart
+│   ├── home_screen.dart
+│   ├── vcf_generator.dart
+│   └── permissions.dart
+├── pubspec.yaml
